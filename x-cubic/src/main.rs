@@ -16,10 +16,6 @@ fn cubic(x: u32) -> u32 {
 
 fn main() {
     let state = Opt::from_args();
-    if state.x > 100u32 {
-        eprintln!("Enter a number between 1 and 100.");
-        std::process::exit(1)
-    }
     println!("{}", cubic(state.x));
 }
 
