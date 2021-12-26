@@ -3,4 +3,9 @@
 members = [
   "hello-world",
   "x-cubic",
+  "rectangle",
+  "even-or-odd",
+  "watch",
+  "sum-of-positive",
+  "remove-first-and-last-character",
 ]
