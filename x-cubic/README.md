@@ -7,5 +7,6 @@
 # Usage
 2の3乗を出力する。
 ```bash
-cargo run -p x-cubic 2
+cargo run -p x-cubic -- 2
+// 8
 ```
