@@ -8,4 +8,9 @@ members = [
   "watch",
   "sum-of-positive",
   "remove-first-and-last-character",
+  "string-repeat",
+  "small-large-equal",
+  "reversed-strings",
+  "summation",
+  "smallest",
 ]

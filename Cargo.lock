@@ -141,6 +141,34 @@ dependencies = [
 ]
 
 [[package]]
+name = "reversed-strings"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "small-large-equal"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "smallest"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "string-repeat"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "strsim"
 version = "0.8.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -172,6 +200,13 @@ dependencies = [
 
 [[package]]
 name = "sum-of-positive"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "summation"
 version = "0.1.0"
 dependencies = [
  "structopt",
