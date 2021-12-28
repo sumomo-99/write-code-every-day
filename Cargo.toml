@@ -13,4 +13,9 @@ members = [
   "reversed-strings",
   "summation",
   "smallest",
+  "range",
+  "remove-string-spaces",
+  "square-n-sum",
+  "sorting-numbers",
+  "counting-sheeps",
 ]

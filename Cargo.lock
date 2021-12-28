@@ -44,6 +44,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "counting-sheeps"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "even-or-odd"
 version = "0.1.0"
 dependencies = [
@@ -127,6 +134,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "range"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "rectangle"
 version = "0.1.0"
 dependencies = [
@@ -135,6 +149,13 @@ dependencies = [
 
 [[package]]
 name = "remove-first-and-last-character"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "remove-string-spaces"
 version = "0.1.0"
 dependencies = [
  "structopt",
@@ -156,6 +177,20 @@ dependencies = [
 
 [[package]]
 name = "smallest"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "sorting-numbers"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "square-n-sum"
 version = "0.1.0"
 dependencies = [
  "structopt",
