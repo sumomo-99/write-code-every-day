@@ -18,4 +18,8 @@ members = [
   "square-n-sum",
   "sorting-numbers",
   "counting-sheeps",
+  "circle-in-a-rectangle",
+  "print-many-hello-world",
+  "calculate-bmi",
+  "two-word-name",
 ]
