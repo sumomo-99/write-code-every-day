@@ -22,4 +22,6 @@ members = [
   "print-many-hello-world",
   "calculate-bmi",
   "two-word-name",
+  "print-test-case",
+  "vowel-count",
 ]
