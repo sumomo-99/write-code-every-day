@@ -7,5 +7,5 @@
 # Usage
 ```bash
 cargo run -p string-repeat -- abc 5
-// cargo run -p string-repeat -- abc 5
+// abcabcabcabcabc
 ```
