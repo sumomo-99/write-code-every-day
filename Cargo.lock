@@ -43,6 +43,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "check-for-factor"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "circle-in-a-rectangle"
 version = "0.1.0"
 dependencies = [
