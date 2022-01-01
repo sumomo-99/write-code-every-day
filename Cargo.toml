@@ -24,4 +24,6 @@ members = [
   "two-word-name",
   "print-test-case",
   "vowel-count",
+  "swapping-two-numbers",
+  "century-from-year",
 ]
