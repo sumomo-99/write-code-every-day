@@ -3,6 +3,13 @@
 version = 3
 
 [[package]]
+name = "a-b-divide"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "ansi_term"
 version = "0.12.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -105,6 +112,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "62b467343b94ba476dcb2500d242dadbb39557df889310ac77c5d99100aaac33"
 dependencies = [
  "libc",
+]
+
+[[package]]
+name = "how-many-divisors"
+version = "0.1.0"
+dependencies = [
+ "structopt",
 ]
 
 [[package]]

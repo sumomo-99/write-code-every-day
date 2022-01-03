@@ -12,3 +12,4 @@
 8. string-repeat
 9. small-large-equal
 10. reversed-strings
+11. summation

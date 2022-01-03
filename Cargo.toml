@@ -27,4 +27,6 @@ members = [
   "swapping-two-numbers",
   "century-from-year",
   "check-for-factor",
+  "how-many-divisors",
+  "a-b-divide",
 ]
