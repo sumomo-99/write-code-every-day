@@ -13,3 +13,4 @@
 9. small-large-equal
 10. reversed-strings
 11. summation
+12. smallest

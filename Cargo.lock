@@ -57,6 +57,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "circle"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "circle-in-a-rectangle"
 version = "0.1.0"
 dependencies = [

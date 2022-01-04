@@ -29,4 +29,5 @@ members = [
   "check-for-factor",
   "how-many-divisors",
   "a-b-divide",
+  "circle",
 ]
