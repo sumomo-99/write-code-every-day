@@ -30,4 +30,5 @@ members = [
   "how-many-divisors",
   "a-b-divide",
   "circle",
+  "simple-calculator",
 ]

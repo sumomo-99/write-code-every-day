@@ -14,3 +14,4 @@
 10. reversed-strings
 11. summation
 12. smallest
+13. range
