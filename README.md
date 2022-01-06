@@ -15,3 +15,4 @@
 11. summation
 12. smallest
 13. range
+14. remove-string-spaces

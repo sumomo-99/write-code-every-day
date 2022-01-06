@@ -31,4 +31,5 @@ members = [
   "a-b-divide",
   "circle",
   "simple-calculator",
+  "min-max-sum",
 ]
