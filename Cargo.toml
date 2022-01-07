@@ -32,4 +32,5 @@ members = [
   "circle",
   "simple-calculator",
   "min-max-sum",
+  "print-rectangle",
 ]

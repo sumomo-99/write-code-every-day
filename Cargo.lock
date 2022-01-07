@@ -152,6 +152,13 @@ name = "print-many-hello-world"
 version = "0.1.0"
 
 [[package]]
+name = "print-rectangle"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "print-test-case"
 version = "0.1.0"
 

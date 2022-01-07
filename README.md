@@ -16,3 +16,4 @@
 12. smallest
 13. range
 14. remove-string-spaces
+15. square-n-sum
