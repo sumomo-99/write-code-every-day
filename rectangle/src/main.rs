@@ -27,10 +27,7 @@ fn main() {
 
 #[test]
 fn test() {
-    let t = Rectangle {
-        a: 3,
-        b: 5,
-    };
+    let t = Rectangle { a: 3, b: 5 };
     assert_eq!(t.area(), 15);
     assert_eq!(t.perimeter(), 16);
 }

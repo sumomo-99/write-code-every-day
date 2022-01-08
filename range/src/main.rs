@@ -9,7 +9,7 @@ struct Args {
     numbers: Vec<i32>,
 }
 
-fn smallest(arr: &Vec<i32>) -> String {
+fn smallest(arr: &[i32]) -> String {
     if arr[0] < arr[1] && arr[1] < arr[2] {
         "Yes".to_string()
     } else {

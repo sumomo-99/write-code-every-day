@@ -9,7 +9,7 @@ struct Args {
     numbers: Vec<i32>,
 }
 
-fn smallest(arr: &Vec<i32>) -> i32 {
+fn smallest(arr: &[i32]) -> i32 {
     *arr.iter().min().unwrap()
 }
 

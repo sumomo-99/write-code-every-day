@@ -12,12 +12,11 @@ struct Args {
 }
 
 fn compare(a: isize, b: isize) -> String {
-    if a < b {
-        "a < b".to_string()
-    } else if a > b {
-        "a > b".to_string()
-    } else {
-        "a == b".to_string()
+    match a - b {
+        d if d < 0 => "a < b".to_string(),
+        d if d > 0 => "a > b".to_string(),
+        0 => "a == b".to_string(),
+        _ => "".to_string(),
     }
 }
 
