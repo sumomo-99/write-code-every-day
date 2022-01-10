@@ -19,3 +19,4 @@
 15. square-n-sum
 16. sorting-numbers
 17. counting-sheeps
+18. circle-in-a-rectangle
