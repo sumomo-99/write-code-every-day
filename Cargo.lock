@@ -148,6 +148,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "print-chessboard"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "print-frame"
 version = "0.1.0"
 dependencies = [
