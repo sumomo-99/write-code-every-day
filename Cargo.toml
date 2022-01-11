@@ -35,4 +35,5 @@ members = [
   "print-rectangle",
   "print-frame",
   "print-chessboard",
+  "reversed-numbers",
 ]

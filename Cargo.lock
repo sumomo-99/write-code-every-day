@@ -164,6 +164,9 @@ dependencies = [
 [[package]]
 name = "print-many-hello-world"
 version = "0.1.0"
+dependencies = [
+ "structopt",
+]
 
 [[package]]
 name = "print-rectangle"
@@ -241,6 +244,13 @@ dependencies = [
 
 [[package]]
 name = "remove-string-spaces"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
+name = "reversed-numbers"
 version = "0.1.0"
 dependencies = [
  "structopt",
