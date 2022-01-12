@@ -36,4 +36,5 @@ members = [
   "print-frame",
   "print-chessboard",
   "reversed-numbers",
+  "insert-sort",
 ]

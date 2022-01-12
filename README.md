@@ -21,3 +21,4 @@
 17. counting-sheeps
 18. circle-in-a-rectangle
 19. print-many-hello-world
+20. calculate-bmi
