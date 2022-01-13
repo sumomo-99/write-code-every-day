@@ -37,4 +37,5 @@ members = [
   "print-chessboard",
   "reversed-numbers",
   "insert-sort",
+  "greatest-common-divisor",
 ]
