@@ -24,3 +24,4 @@
 20. calculate-bmi
 21. teo-word-name
 22. print-test-case
+23. vowel-count

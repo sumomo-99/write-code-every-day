@@ -39,4 +39,5 @@ members = [
   "insert-sort",
   "greatest-common-divisor",
   "prime-numbers",
+  "qq",
 ]
