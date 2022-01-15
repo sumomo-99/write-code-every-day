@@ -38,4 +38,5 @@ members = [
   "reversed-numbers",
   "insert-sort",
   "greatest-common-divisor",
+  "prime-numbers",
 ]

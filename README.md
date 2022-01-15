@@ -23,3 +23,4 @@
 19. print-many-hello-world
 20. calculate-bmi
 21. teo-word-name
+22. print-test-case
