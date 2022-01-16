@@ -25,3 +25,4 @@
 21. teo-word-name
 22. print-test-case
 23. vowel-count
+24. swapping-two-numbers
