@@ -40,4 +40,5 @@ members = [
   "greatest-common-divisor",
   "prime-numbers",
   "qq",
+  "maximum-profit",
 ]
