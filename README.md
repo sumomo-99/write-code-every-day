@@ -3,7 +3,7 @@
 
 ## CLI (Rust)
 1. hello-world
-2. x-cubic
+2. x-power
 3. rectangle
 4. even-or-odd
 5. watch

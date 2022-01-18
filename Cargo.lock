@@ -36,6 +36,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "bef38d45163c2f1dde094a7dfd33ccf595c92905c8f8f4fdc18d06fb1037718a"
 
 [[package]]
+name = "bubble-sort"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "calculate-bmi"
 version = "0.1.0"
 dependencies = [
@@ -479,7 +486,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f"
 
 [[package]]
-name = "x-cubic"
+name = "x-power"
 version = "0.1.0"
 dependencies = [
  "structopt",
