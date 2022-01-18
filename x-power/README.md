@@ -1,6 +1,8 @@
 # X Power
 整数aの累乗xを出力します。
 
+[説明](https://www.410gone.click/blog/rust-power/)
+
 # Requirement
 * Rust
 
