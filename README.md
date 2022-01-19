@@ -27,3 +27,4 @@
 23. vowel-count
 24. swapping-two-numbers
 25. century-from-year
+26. check-for-factor
