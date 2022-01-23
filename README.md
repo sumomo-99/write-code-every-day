@@ -28,4 +28,5 @@
 24. swapping-two-numbers
 25. century-from-year
 26. check-for-factor
-27, how-many-divisors
+27. how-many-divisors
+28. a-b-divide
