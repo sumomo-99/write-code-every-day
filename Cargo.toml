@@ -42,4 +42,5 @@ members = [
   "qq",
   "maximum-profit",
   "bubble-sort",
+  "selection-sort",
 ]

@@ -303,6 +303,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "selection-sort"
+version = "0.1.0"
+dependencies = [
+ "structopt",
+]
+
+[[package]]
 name = "simple-calculator"
 version = "0.1.0"
 dependencies = [
