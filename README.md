@@ -32,3 +32,4 @@
 28. a-b-divide
 29. circle
 30. min-max-sum
+31. print-rectangle
