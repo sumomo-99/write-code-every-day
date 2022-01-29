@@ -33,3 +33,5 @@
 29. circle
 30. min-max-sum
 31. print-rectangle
+32. print-frame
+33. print-chessboard
