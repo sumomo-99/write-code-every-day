@@ -35,3 +35,4 @@
 31. print-rectangle
 32. print-frame
 33. print-chessboard
+34. simple-calculator
