@@ -36,3 +36,6 @@
 32. print-frame
 33. print-chessboard
 34. simple-calculator
+35. reversed-numbers
+36. insert-sort
+37. greatest-common-divisor
