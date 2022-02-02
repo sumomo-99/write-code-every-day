@@ -39,3 +39,4 @@
 35. reversed-numbers
 36. insert-sort
 37. greatest-common-divisor
+38. prime-numbers
