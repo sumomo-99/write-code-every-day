@@ -41,3 +41,4 @@
 37. greatest-common-divisor
 38. prime-numbers
 39. qq
+40. maximum-profit
