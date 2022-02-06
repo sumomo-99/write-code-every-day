@@ -43,3 +43,4 @@
 39. qq
 40. maximum-profit
 41. bubble-sort
+42. selection-sort
