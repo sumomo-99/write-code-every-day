@@ -1,12 +1,13 @@
-# Write Code Every Day
-毎日コードを書く取り組み。
+# Write Code Every Day (Rust)
+Rustでコードを書く取り組みです。
 
 ## CLI (Rust)
 1. hello_world  
 "Hello World"を標準出力に表示します。
 2. x_power  
 自然数AのX乗を計算します。
-3. rectangle
+3. rectangle  
+長方形の面積と周囲の長さを出力します。
 4. even-or-odd
 5. watch
 6. sum-of-positive
