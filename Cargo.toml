@@ -1,8 +1,8 @@
 [workspace]
 
 members = [
-  "hello-world",
-  "x-power",
+  "hello_world",
+  "x_power",
   "rectangle",
   "even-or-odd",
   "watch",

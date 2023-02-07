@@ -2,8 +2,10 @@
 毎日コードを書く取り組み。
 
 ## CLI (Rust)
-1. hello-world
-2. x-power
+1. hello_world  
+"Hello World"を標準出力に表示します。
+2. x_power  
+自然数AのX乗を計算します。
 3. rectangle
 4. even-or-odd
 5. watch

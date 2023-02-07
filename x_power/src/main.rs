@@ -1,15 +1,11 @@
-use structopt::StructOpt;
+use clap::Parser;
 
-#[derive(StructOpt)]
-#[structopt(name = "x-power")]
-///Calculates Xth power of given integer.
-
-struct Opt {
-    #[structopt(name = "Integer")]
-    ///Integer
+#[derive(Parser)]
+///自然数AのX乗を計算します。
+struct Args {
+    ///底
     a: usize,
-    #[structopt(name = "Exponent")]
-    ///Exponent
+    ///指数
     x: u32,
 }
 
@@ -21,7 +17,7 @@ fn power(a: usize, x: u32) -> Result<usize, &'static str> {
 }
 
 fn main() {
-    let args = Opt::from_args();
+    let args = Args::parse();
     match power(args.a, args.x) {
         Ok(result) => println!("{}の{}乗は{}です。", args.a, args.x, result),
         Err(msg) => println!("計算できません。{}", msg),
