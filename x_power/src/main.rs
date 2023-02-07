@@ -12,7 +12,7 @@ struct Args {
 fn power(a: usize, x: u32) -> Result<usize, &'static str> {
     match a.checked_pow(x) {
         Some(result) => Ok(result),
-        None => Err("Overflow")
+        None => Err("Overflow"),
     }
 }
 
