@@ -8,6 +8,6 @@
 
 # Usage
 ```bash
-cargo run -p hello-world
+cargo run -p hello_world
 // Hello World
 ```
