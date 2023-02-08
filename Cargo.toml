@@ -4,7 +4,7 @@ members = [
   "hello_world",
   "x_power",
   "rectangle",
-  "even-or-odd",
+  "even_or_odd",
   "watch",
   "sum-of-positive",
   "remove-first-and-last-character",

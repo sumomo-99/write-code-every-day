@@ -282,10 +282,10 @@ dependencies = [
 ]
 
 [[package]]
-name = "even-or-odd"
+name = "even_or_odd"
 version = "0.1.0"
 dependencies = [
- "structopt",
+ "clap 4.1.4",
 ]
 
 [[package]]

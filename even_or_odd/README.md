@@ -6,8 +6,8 @@
 
 # Usage
 ```bash
-cargo run -p even-or-odd -- 4
+cargo run -p even_or_odd -- 4
 // Even
-cargo run -p even-or-odd -- 3
+cargo run -p even_or_odd -- 3
 // Odd
 ```

@@ -8,7 +8,8 @@ Rustでコードを書く取り組みです。
 自然数AのX乗を計算します。
 3. rectangle  
 長方形の面積と周囲の長さを出力します。
-4. even-or-odd
+4. even_or_odd  
+偶数(Even)か奇数(Odd)かを判定します。
 5. watch
 6. sum-of-positive
 7. remove-first-and-last-character
