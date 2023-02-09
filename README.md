@@ -10,7 +10,8 @@ Rustでコードを書く取り組みです。
 長方形の面積と周囲の長さを出力します。
 4. even_or_odd  
 偶数(Even)か奇数(Odd)かを判定します。
-5. watch
+5. watch  
+入力された秒を`時:分:秒`の形式に変換します。
 6. sum-of-positive
 7. remove-first-and-last-character
 8. string-repeat

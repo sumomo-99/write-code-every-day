@@ -1,16 +1,15 @@
-use structopt::StructOpt;
+use clap::Parser;
 
-#[derive(StructOpt)]
-#[structopt(name = "EvenOrOdd")]
-
+#[derive(Parser)]
+///入力された秒を`時:分:秒`の形式に変換する。
 struct Second {
-    #[structopt(name = "second")]
-    input: u32,
+    ///秒
+    seconds: u32,
 }
 
 impl Second {
     fn format(&self) -> String {
-        match self.input {
+        match self.seconds {
             0..=86400 => {
                 let tap = self.calc();
                 format!("{}:{}:{}", tap.0, tap.1, tap.2)
@@ -20,7 +19,7 @@ impl Second {
     }
 
     fn calc(&self) -> (u32, u32, u32) {
-        let mut num = self.input;
+        let mut num = self.seconds;
         let mut tap = (0, 0, 0);
 
         if num >= 3600 {
@@ -37,12 +36,16 @@ impl Second {
 }
 
 fn main() {
-    let number = Second::from_args();
+    let number = Second::parse();
     println!("{}", number.format());
 }
 
-#[test]
-fn test() {
-    let num = Second { input: 46979 };
-    assert_eq!(num.format(), "13:2:59");
+#[cfg(test)]
+mod tests {
+    use super::*;
+    #[test]
+    fn test() {
+        let num = Second { seconds: 46979 };
+        assert_eq!(num.format(), "13:2:59");
+    }
 }
