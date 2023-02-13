@@ -49,3 +49,5 @@ Rustでコードを書く取り組みです。
 40. maximum-profit
 41. bubble-sort
 42. selection-sort
+43. dice_1  
+入力した回数だけ6面体のサイコロを振ります。サイコロを目の合計を表示します。

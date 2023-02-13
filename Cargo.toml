@@ -43,4 +43,5 @@ members = [
   "maximum-profit",
   "bubble-sort",
   "selection-sort",
+  "dice_1"
 ]
