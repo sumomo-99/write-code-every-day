@@ -43,5 +43,6 @@ members = [
   "maximum-profit",
   "bubble-sort",
   "selection-sort",
-  "dice_1"
+  "dice_1",
+  "running_sum_of_1d_array"
 ]
